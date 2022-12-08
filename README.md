@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Frontend Mentor - Base Apparel coming soon page
 
 ![Design preview for the Base Apparel coming soon page coding challenge](./design/desktop-preview.jpg)
@@ -93,3 +94,7 @@ We love receiving feedback! We're always looking to improve our challenges and o
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
 **Have fun building!** 🚀
+=======
+# autenticador-de-correo-JS-HTML-CSS
+autenticador de  correo
+>>>>>>> f98d702cfe80e8df8b0724a49d8f2c6fa0346eac
